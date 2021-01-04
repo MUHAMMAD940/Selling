@@ -1,0 +1,270 @@
+@media (min-width: 1200px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /***** Touch part start *****/
+
+    .main_menu .navbar-nav .nav-item .nav-link {
+        font-size: 15px;
+        margin: 5px 8px;
+    }
+
+    /***** Touch part start *****/
+
+    /***** Banner part start *****/
+    .banner_text h1 {
+        font-size: 4rem;
+    }
+
+    /***** Banner part end *****/
+
+    /***** Feature part start *****/
+
+    .btn {
+        text-align: left;
+    }
+
+    /***** Feature part end *****/
+
+
+    /***** About part start *****/
+    #about_part {
+        padding: 5em 0 2em;
+    }
+
+    .experience {
+        bottom: -50px;
+        right: 15px;
+    }
+
+    .experience .year {
+        font-size: 2rem;
+    }
+
+    .experience .caption {
+        font-size: .9rem;
+    }
+
+    /***** About part end *****/
+
+    /***** Blog part start *****/
+    #blog_part {
+        padding: 2em 0;
+    }
+
+    /***** Blog part end *****/
+
+    /***** Contact part start *****/
+    #contact_part {
+        padding: 3em 0;
+    }
+
+    /***** Contact part end *****/
+
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    /***** Touch part start *****/
+
+    .contact_media a span {
+        display: none;
+    }
+
+    /***** Touch part end *****/
+
+    /***** Menu part start *****/
+
+    .main_menu button:focus {
+        outline: 0;
+    }
+
+    .main_menu #navbarSupportedContent {
+        background: #fff;
+        z-index: 999;
+    }
+
+    /***** Menu part end *****/
+
+    /***** Banner part start *****/
+
+    .banner_text h1 {
+        font-size: 4rem;
+    }
+
+    .banner_main {
+        padding: 158px 0 160px;
+    }
+
+    /***** Banner part end *****/
+
+    /***** Product part start *****/
+    /***** Product part end *****/
+
+}
+
+@media (max-width: 575px) {
+
+    /***** Touch part start *****/
+
+    .contact_media a span {
+        display: none;
+    }
+
+    .social_media li {
+        font-size: 14px;
+    }
+
+    .social_media li a {
+        width: 28px;
+        height: 28px;
+        line-height: 28px;
+    }
+
+    .contact_media a i {
+        font-size: 14px;
+    }
+
+
+    /***** Touch part end *****/
+
+    /***** Menu part start *****/
+
+    .main_menu button:focus {
+        outline: 0;
+    }
+
+    .main_menu #navbarSupportedContent {
+        background: #fff;
+        z-index: 999;
+    }
+
+    /***** Menu part end *****/
+
+
+    /***** Banner part start *****/
+
+    .banner_main {
+        padding: 158px 0 140px;
+    }
+
+    .banner_text h1 {
+        font-size: 2rem;
+    }
+
+    .banner_btn {
+        text-align: center;
+    }
+
+    /***** Banner part end *****/
+
+
+    /***** Product part start *****/
+    #products_part {
+        padding: 2.5em 0;
+    }
+
+    .products_text h2 {
+        font-size: 30px;
+    }
+
+    /***** Product part end *****/
+
+
+    /***** Notification part start *****/
+
+    .notify_main {
+        padding: 80px 0;
+    }
+
+    .notify_text .button {
+        width: 150px;
+    }
+
+    .btn {
+        text-align: left;
+    }
+
+    /***** Notification part end *****/
+
+
+    /***** Feature part start *****/
+
+    #feature_part {
+        padding: 2.5em 0;
+    }
+
+    /***** Feature part end *****/
+
+    /***** About part start *****/
+    #about_part {
+        padding: 2.5em 0;
+    }
+
+    .experience {
+        right: 15px;
+    }
+
+    .experience .year {
+        font-size: 1.1rem;
+    }
+
+    /***** About part end *****/
+
+    /***** Team part start *****/
+
+    #team_part {
+        padding: 2.5em 0;
+    }
+
+    /***** Team part end *****/
+
+    /***** Special part start *****/
+    #date_countdown .countdown_block {
+        margin: 4px;
+    }
+
+    /***** Special part end *****/
+
+    /***** Service part start *****/
+    #service_part {
+        padding: 2.5em 0;
+    }
+
+    /***** Service part end *****/
+
+    /***** Testimonial part start *****/
+    #testimonial_part {
+        padding: 2.5em 0;
+    }
+
+    /***** Testimonial part end *****/
+
+    /***** Blog part start *****/
+    #blog_part {
+        padding: 2.5em 0;
+    }
+
+    /***** Blog part end *****/
+
+    /***** Contact part start *****/
+    #contact_part {
+        padding: 2.5em 0;
+    }
+
+    /***** Contact part end *****/
+
+    /***** Footer part start *****/
+    #footer_part {
+        padding: 4em 0;
+    }
+
+    /***** Footer part end *****/
+
+
+
+}
